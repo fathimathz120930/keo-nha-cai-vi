@@ -20,7 +20,7 @@ function App() {
     <div className={`min-h-screen ${isDark ? 'dark' : ''}`}>
       <header className="fixed top-0 left-0 right-0 p-4 flex justify-between items-center bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm shadow-md z-40">
         <div className="flex items-center gap-3">
-        <img src="https://keo-nha-cai-vi.vercel.app/8xbet_light_ logo.svg" alt=" Logo" className="w-30 h-30" />
+        <img src="https://8xbet-keo-nha-cai-vi.vercel.app/8xbet_light_ logo.svg" alt=" Logo" className="w-30 h-30" />
           
           
         </div>
@@ -41,7 +41,7 @@ function App() {
 
           <div className="relative rounded-xl overflow-hidden mb-12">
             <img
-              src="https://keo-nha-cai-vi.vercel.app/cach-doc-keo-nha-cai-danh-cho-nguoi-moi-bat-dau.webp"
+              src="https://8xbet-keo-nha-cai-vi.vercel.app/cach-doc-keo-nha-cai-danh-cho-nguoi-moi-bat-dau.webp"
               alt="cach-doc-keo-nha-cai-danh-cho-nguoi-moi-bat-dau
 "
               className="w-full h-[400px] object-cover"
@@ -69,7 +69,7 @@ function App() {
             
               <h2 className="text-2xl font-bold"></h2>
                <img
-              src="https://keo-nha-cai-vi.vercel.app/vai-tro-cua-keo-nha-cai-can-nam-ro.webp"
+              src="https://8xbet-keo-nha-cai-vi.vercel.app/vai-tro-cua-keo-nha-cai-can-nam-ro.webp"
               alt="cach-doc-keo-nha-cai-danh-cho-nguoi-moi-bat-dau
 "
               className="w-full h-[400px] object-cover"
@@ -199,7 +199,7 @@ function App() {
    
               
                <img
-              src="https://keo-nha-cai-vi.vercel.app/nhung-luu-y-khi-doc-keo-nha-cai-8xbet.webp"
+              src="https://8xbet-keo-nha-cai-vi.vercel.app/nhung-luu-y-khi-doc-keo-nha-cai-8xbet.webp"
               alt="Lưu ý dành cho tân binh khi đọc kèo nhà cái 8xbet
 
 "
@@ -335,10 +335,10 @@ function App() {
 <div>
   <footer className="fixed px-6 py-4 bottom-0 left-0 right-0 p-4 flex justify-between items-center bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm shadow-md z-40 w-full">
   <div className="flex items-center gap-5">
-    <img src="https://8xbet-xo-so-vi.vercel.app/8xbet_light_ logo.svg" alt="Logo" className="w-30 h-30" />
+    <img src="https://8xbet-keo-nha-cai-vi.vercel.app/8xbet_light_ logo.svg" alt="Logo" className="w-30 h-30" />
   </div>
   <div className="ml-auto text-sm text-gray-600 dark:text-gray-300">
-    © 2025 <a href="https://8xbet-xo-so-vi.vercel.app/" className="text-blue-600 hover:underline">8xbet</a>. All rights reserved.
+    © 2025 <a href="https://8xbet-keo-nha-cai-vi.vercel.app/" className="text-blue-600 hover:underline">8xbet</a>. All rights reserved.
   </div>
 </footer>
   </div>
